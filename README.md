@@ -4,7 +4,7 @@ Gra na telefon do wykładu 5 „Kontrola dostępu II — obowiązkowa (MAC)” z
 
 James Bond, Arsène Lupin i Herlock Sholmes zamykają łotra Tupeene’a na bezludnej wyspie — za pomocą modeli Bella–LaPaduli i Biby, SELinuksa, zdolności Linuksa, RBAC i poziomów integralności Windows. Sześć misji, ok. 25 minut, dyplom z kodem.
 
-- Gra: https://maciej-janowicz.github.io/tupeene-wyklad5/
+- Gra: https://maciej-janowicz.github.io/tupeene-wyklad5/ (https://verszees.github.io/tupeene-wyklad5/)
 - Panel prowadzącego (sprawdzanie kodów): https://maciej-janowicz.github.io/tupeene-wyklad5/#nauczyciel
 
 Jeden plik `index.html`, bez serwera i bez zbierania danych; postęp zapisuje się w przeglądarce gracza.
